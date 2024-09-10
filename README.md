@@ -7,7 +7,7 @@ This repository implements Large Language Models (LLMs), including GPT-2, GPT-3.
 Ensure you have the following before running the project:
 
 - Python 3.x
-- Required libraries: `transformers`, `torch`, `pandas`, `sklearn`, among others.
+- Required libraries: `transformers`, `torch`, `pandas`, `spacy`, `unsloth` among others.
 
 All the necessary dependencies are specififed in each notebook
 
