@@ -35,8 +35,8 @@ The repository includes the fine-tuning code for each of the models mentioned, a
 ### Experiments:
 - **Quantitative evaluation**:
 - **Qualitative evaluation**:
-- News_Generated_In_English.csv
-- News_Generated_In_Spanish.csv
+- `News_Generated_In_English.csv`:
+- `News_Generated_In_Spanish.csv`:
 
 
 ## How to Use the Code
