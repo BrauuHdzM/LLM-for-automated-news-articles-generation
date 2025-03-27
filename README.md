@@ -26,7 +26,7 @@ The repository includes the fine-tuning code for each of the models mentioned, a
 
 ### Similar News Retrieval
 
-- **Similar News Retrieval**: Contains a notebook that demonstrates how to retrieve similar news articles. This notebook provides examples and code to help users integrate news retrieval functionalities into their workflows.
+- **RSS_Similar_News_Retrieval.ipynb**: A notebook that demonstrates how to retrieve similar news articles. This notebook provides examples and code to help users integrate news retrieval functionalities into their workflows.
 
 ### Dataset:
 - `News_Dataset_Complete.csv`: The full dataset of news.
