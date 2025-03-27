@@ -26,11 +26,18 @@ The repository includes the fine-tuning code for each of the models mentioned, a
 
 ### Similar News Retrieval
 
-- `RSS_Similar_News_Retrieval.ipynb`: A notebook that demonstrates how to retrieve similar news articles. This notebook provides examples and code to help users integrate news retrieval functionalities into their workflows.
+- `RSS_Similar_News_Retrieval.ipynb`: A notebook that implements the similar news retrieval module. This notebook provides examples and code to help users integrate news retrieval functionalities into their workflows.
 
 ### Dataset:
 - `News_Dataset_Complete.csv`: The full dataset of news.
 - `News_Dataset_For_FT.csv`: Dataset specifically prepared for fine-tuning the models.
+
+### Experiments:
+- **Quantitative evaluation**:
+- **Qualitative evaluation**:
+- News_Generated_In_English.csv
+- News_Generated_In_Spanish.csv
+
 
 ## How to Use the Code
 
