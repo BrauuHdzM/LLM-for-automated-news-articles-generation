@@ -28,10 +28,9 @@ The repository includes the fine-tuning code for each of the models mentioned, a
 
 - **Similar News Retrieval**: Contains a notebook that demonstrates how to retrieve similar news articles. This notebook provides examples and code to help users integrate news retrieval functionalities into their workflows.
 
-### CSV Files:
+### Dataset:
 - `News_Dataset_Complete.csv`: The full dataset of news.
 - `News_Dataset_For_FT.csv`: Dataset specifically prepared for fine-tuning the models.
-- `News_Generated_In_English.csv` and `News_Generated_In_Spanish.csv`: Examples of news articles generated in English and Spanish respectively.
 
 ## How to Use the Code
 
