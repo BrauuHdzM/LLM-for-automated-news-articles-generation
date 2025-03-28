@@ -20,7 +20,7 @@ The repository consists of the following key files and directories:
 - **GPT-3.5**: Requires users to fine-tune the model themselves and utilize it with their own API keys from OpenAI. Be aware that using GPT-3.5 comes with associated API usage costs.
 - **LLaMA3**: A fine-tuned version of this model is also available for free use in the project.
 - **Gemini**: Like GPT-3.5, this model requires training and usage under the user’s own Google API key, and costs associated with its API usage may apply.
-- **GPT-4**:
+- **GPT-4**: Similar to Gemini or GPT-3.5, this model requires users to provide their own OpenAI API key to make requests. Users should be aware that API usage costs may apply when using GPT-4.
 
 The repository includes the fine-tuning code for each of the models mentioned, along with examples that demonstrate how to use each model individually. Users can refer to these examples to either fine-tune or deploy the models in their own workflows.
 
