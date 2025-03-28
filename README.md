@@ -34,9 +34,9 @@ The repository includes the fine-tuning code for each of the models mentioned, a
 
 ### Experiments:
 - **Quantitative evaluation**:
-  - `UniEval_evaluation.ipynb`:  A notebook that performs the quantitative evaluation described in the paper for the generated news article in English  
+  - `UniEval_evaluation.ipynb`:  A notebook that performs the quantitative evaluation described in the paper for the generated news article in English.  
 - **Qualitative evaluation**:
-- `News_Generated_In_English.csv`:
+- `News_Generated_In_English.csv`: 
 - `News_Generated_In_Spanish.csv`:
 
 
